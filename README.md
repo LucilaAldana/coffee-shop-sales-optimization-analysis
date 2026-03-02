@@ -1,6 +1,6 @@
 ### sales-optimization-coffee-shop
 
-# Sales Optimization and Customer Behavior Analysis for Maven Roasters
+# Sales Optimization & Customer Behavior Analysis for Maven Roasters
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
