@@ -30,4 +30,4 @@ A dynamic Excel dashboard was developed to enable interactive monitoring of KPIs
 
 This project simulates a real-world retail analytics scenario focused on improving profitability through customer behavior insights and operational evaluation.
 
-Tools Used: Excel / Data Cleaning / Pivot Tables / Dashboard Design / KPI Analysis
+Tools Used: Excel / Data Cleaning / Pivot Tables / Dashboard Design / KPI Analysis / Generative AI
